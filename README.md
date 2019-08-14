@@ -20,7 +20,7 @@ The build process depends on the g++ compiler.
 On a standard Unix-style environment:
 
 ```
-git clone --recursive https://github.com/google/woff2.git
+git clone --recursive https://github.com/arakilian0/woff2.git
 cd woff2
 make clean all
 ```
@@ -29,7 +29,7 @@ Alternatively, if Brotli is already installed on your system you can use CMake
 to build executables and libraries:
 
 ```
-git clone https://github.com/google/woff2.git
+git clone https://github.com/arakilian0/woff2.git
 cd woff2
 mkdir out
 cd out
